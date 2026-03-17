@@ -71,8 +71,8 @@ printf("Decrypted message: %lld\n", decryptedMessage);
 return 0; 
 } 
 ```
-
 ## Output:
+<img width="676" height="499" alt="image" src="https://github.com/user-attachments/assets/3713cd91-f364-479b-aa0a-4f9816de122b" />
 
 
 ## Result:
